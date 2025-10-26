@@ -4,7 +4,7 @@ Aplicativo web para comparação de URLs de produtos, permitindo que o usuário 
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 - Adicionar múltiplas URLs de produtos para análise  
 - Definir atributos personalizados para cada URL  
 - Gerar resultados de benchmark de forma clara e visual  
@@ -13,7 +13,16 @@ Aplicativo web para comparação de URLs de produtos, permitindo que o usuário 
 
 ---
 
-## 🌐 Tecnologias
+## Tecnologias
 - React
 - CSS
 - HTML
+  
+---
+
+## Como usar
+
+1. Clone o repositório e abra a pasta do projeto.
+2. Instale as dependências com `npm install`.
+3. Rode a aplicação com `npm run dev`.
+4. Abra o link exibido no terminal no navegador.
